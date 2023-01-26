@@ -18,7 +18,7 @@
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
     <docker.image.prefix>webapp</docker.image.prefix>
-	  <sonar.host.url>http://172.31.43.51:9000/</sonar.host.url> 
+    <sonar.host.url>http://13.235.19.44:9000/</sonar.host.url> 
   </properties>
 
   <dependencies>
