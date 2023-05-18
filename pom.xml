@@ -14,11 +14,12 @@
   <url>http://www.example.com</url>
 
   <properties>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
     <docker.image.prefix>webapp</docker.image.prefix>
-    <sonar.host.url>http://13.235.19.44:9000/</sonar.host.url> 
+    <sonar.host.url>http://18.183.235.173:9000/</sonar.host.url>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
   </properties>
 
   <dependencies>
